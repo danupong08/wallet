@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "540361556284",
+    "firebase_url": "https://wallet-7e2c2.firebaseio.com",
+    "project_id": "wallet-7e2c2",
+    "storage_bucket": "wallet-7e2c2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:540361556284:android:bec99bd935ff309b969e39",
+        "android_client_info": {
+          "package_name": "com.example.flutterapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "540361556284-llc58ban9qd937riboj4o1sg54nnufdn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCmAOBCu2qT8F5p9b2WnXignIaAH4u2Xf0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "540361556284-llc58ban9qd937riboj4o1sg54nnufdn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
